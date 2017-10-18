@@ -11,6 +11,5 @@ n : total number of elements in an array.
 
 3) Now finally, Min Heap will have k largest elements and root of the Min Heap is the kth largest element.
 
-To get a clear understanding of the algorithm, please watch video by Srini Devadas, MIT
 
 
